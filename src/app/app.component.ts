@@ -6,5 +6,15 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'bases';
+
+
+  // aumentar(){
+  //   this.numero+=1;
+  // }
+
+  // disminuir(){
+  //   this.numero-=1;
+  // }
+
+ 
 }
